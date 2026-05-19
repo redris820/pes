@@ -1,1 +1,6 @@
 
+{
+  "scripts": {
+    "build": "echo no build needed"
+  }
+}
